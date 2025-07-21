@@ -1,0 +1,7 @@
+{
+  "autos": [
+    { "id": 1, "anio": "2022", "marca": "Toyota", "submarca": "Corolla", "version": "XLE" },
+    { "id": 2, "anio": "2023", "marca": "Honda", "submarca": "Civic", "version": "Sport" },
+    { "id": 3, "anio": "2024", "marca": "Mazda", "submarca": "3", "version": "Grand Touring" }
+  ]
+}
